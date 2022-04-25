@@ -21,6 +21,12 @@ isPalindrome("hello")
 
 /* 
   Add your pseudocode here
+  - create a new variable to hold the reversed version of the word we are testing
+  - split the word to have access to individual letter,
+  - reverse the order of the letters
+  - join them to have a reversed order word
+  - compare the word received with the reversed version with strict operator
+
 */
 
 /*
